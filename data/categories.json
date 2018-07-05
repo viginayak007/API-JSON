@@ -1,0 +1,19 @@
+{
+    "categories":[
+        {
+            "id":1,
+            "name":"Electronics",
+            "desc":"-"
+        },
+        {
+            "id": 2,
+            "name": "Clothing",
+            "desc": "-"
+        },
+        {
+            "id": 3,
+            "name": "Hardware",
+            "desc": "-"
+        }
+    ]
+}

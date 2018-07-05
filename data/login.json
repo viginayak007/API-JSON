@@ -1,0 +1,33 @@
+{
+    "users": [{
+            "id": "1",
+            "userID": "a@mail.com",
+            "password": "1234"
+        },
+        {
+            "id": "2",
+            "userID": "b@mail.com",
+            "password": "123sasdas4"
+        },
+        {
+            "id": "3",
+            "userID": "c@mail.com",
+            "password": "123asdasf4"
+        },
+        {
+            "id": "4",
+            "userID": "d@mail.com",
+            "password": "123asdaf4"
+        },
+        {
+            "id": "5",
+            "userID": "e@mail.com",
+            "password": "1234"
+        },
+        {
+            "id": "6",
+            "userID": "f@mail.com",
+            "password": "1ssad@234"
+        }
+    ]
+}

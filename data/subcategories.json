@@ -1,0 +1,27 @@
+{
+    "subcategories": [{
+            "id": 1,
+            "category": "Electronics",
+            "name": "TV",
+            "desc": "-"
+        },
+        {
+            "id": 2,
+            "category": "Electronics",
+            "name": "Mobile",
+            "desc": "-"
+        },
+        {
+            "id": 3,
+            "category": "Clothing",
+            "name": "Gucci",
+            "desc": "-"
+        },
+        {
+            "id": 4,
+            "category": "Clothing",
+            "name": "Armani",
+            "desc": "-"
+        }
+    ]
+}

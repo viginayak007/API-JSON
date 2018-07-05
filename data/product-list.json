@@ -1,0 +1,33 @@
+{
+    "products": [{
+            "id": 1,
+            "subcategory": "TV",
+            "name": "Samsung",
+            "price": "50000"
+        },
+        {
+            "id": 2,
+            "subcategory": "TV",
+            "name": "Onida",
+            "price": "32000"
+        },
+        {
+            "id": 3,
+            "subcategory": "Mobile",
+            "name": "Nokia",
+            "price": "4800"
+        },
+        {
+            "id": 4,
+            "subcategory": "TV",
+            "name": "Sony",
+            "price": "550000"
+        },
+        {
+            "id": 5,
+            "subcategory": "Mobile",
+            "name": "Apple",
+            "price": "80000`"
+        }
+    ]
+}

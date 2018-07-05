@@ -1,0 +1,66 @@
+{
+    "menu":[
+        {
+            "id": 1,
+            "name":"Master",
+            "submenu":[
+                {
+                    "id": 1,
+                    "name": "Category",
+                    "link": "main/category.html"
+                }, {
+                    "id": 2,
+                    "name": "Subcategory",
+                    "link": "main/subcategory.html"
+                },
+                {
+                    "id":3,
+                    "name":"Product",
+                    "link": "main/product.html"
+                }
+                
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Trans",
+            "submenu": [{
+                    "id": 1,
+                    "name": "Orders",
+                    "link": "trans/order.html"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Report",
+            "submenu": [{
+                    "id": 1,
+                    "name": "Product Information",
+                    "link": "reports/productInfo.html"
+                },
+                {
+                    "id": 2,
+                    "name": "Order Information",
+                    "link": "reports/orderInfo.html"
+                }
+                
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Settings",
+            "submenu": [{
+                    "id": 1,
+                    "name": "Change Password",
+                    "link": "settings/changePassword.html"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Admin",
+            "link": "Admin.html"
+        }
+    ]
+}

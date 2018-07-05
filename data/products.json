@@ -1,0 +1,36 @@
+{
+    "products":[
+        {
+            "id":1,
+            "brandName":"foo",
+            "prodlists":[
+                {
+                    "id":1,
+                    "name":"foo1",
+                    "simages":"path"
+                },
+                {
+                    "id": 2,
+                    "name": "foo2",
+                    "simages": "path"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "brandName": "bar",
+            "prodlists": [
+                {
+                    "id": 1,
+                    "name": "bar1",
+                    "simages": "path"
+                },
+                {
+                    "id": 2,
+                    "name": "bar2",
+                    "simages": "path"
+                }
+            ]
+        }
+    ]
+}
